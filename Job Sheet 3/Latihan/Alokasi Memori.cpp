@@ -1,5 +1,3 @@
-//created by fhandy nofalino akhsan 23343065
-
 #include <stdio.h>
 #include <stdlib.h>
 typedef struct employee_st {
