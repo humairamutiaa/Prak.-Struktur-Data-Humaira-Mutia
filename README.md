@@ -1,7 +1,7 @@
 # Prak.-Struktur-Data-Humaira-Mutia
 Humaira Mutia's Data Structure Weekly Report
 
-#My Job Sheets Explanation
+# My Job Sheets Explanation
 
 **Job Sheet 1**
 Job Sheet 1 menjelaskan bahwa struktur data merupakan cara penyimpanan, penyusunan, dan pengaturan data di dalam media penyimpanan komputer. Merupakan representasi fakta dunia nyata yang disimpan, direkam, atau direpresentasikan dalam bentuk tulisan, suara, gambar, sinyal atau simbol. Dalam pemrograman, struktur data berarti tata letak data yang berisi kolom-kolom data, baik itu kolom yang tampak oleh pengguna (user) atau pun kolom yang hanya digunakan untuk keperluan pemrograman yang tidak tampak oleh pengguna. Struktur data dapat dikategorikan menjadi tipe data sederhana tunggal, seperti Integer, real, boolean dan karakter, serta tipe data sederhana majemuk, seperti String (kumpulan data char). Struktur data yang standar yang biasanya digunakan dibidang informatika adalah List linier (Linked List), Multilist, Stack (Tumpukan), Queue (Antrian), Tree (Pohon), dan Graph (Graf)
